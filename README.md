@@ -47,7 +47,7 @@ Aplicação Web Progressiva (PWA) de transcrição de voz em texto em tempo real
 - Jira
 
 ### 🤖 Inteligência Artificial
-- ChatGPT
+- ChatGPT / Codex
 - Google Gemini
 - Claude — Opus, Sonnet e Haiku
 - LLMs
