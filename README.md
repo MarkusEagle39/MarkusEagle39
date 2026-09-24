@@ -9,20 +9,23 @@ acessibilidade e tecnologias inclusivas.
 ## 🚀 Projetos em Destaque
 
 ### 📱 QR Code Scanner to Export
+🔗 [Demo](http://MarkusEagle39.github.io/QR-Code-Scanner-to-export)
 
 Scanner de QR Code que funciona diretamente no navegador, sem necessidade de instalação. Permite ler códigos pela câmera do celular ou computador, acompanhar as capturas em tempo real e exportar os resultados em `.txt` ou `.csv`.
 
 ### 🎮 Eco — Jogo de Memória Acessível
+🔗 [Demo](http://markuseagle39.github.io/Eco-Accessible-Memory-Game)
 
 Jogo de memória inspirado no Simon/Genius, desenvolvido para pessoas com deficiência visual. Utiliza sons e vibrações como principais formas de feedback, com cores como recurso visual complementar para pessoas com baixa visão.
 
 ### 🎙️ Transcrição Instantânea
+🔗 [Demo](http://markuseagle39.github.io/transcricao/)
 
 Aplicação Web Progressiva (PWA) de transcrição de voz em texto em tempo real, desenvolvida para facilitar a comunicação entre pessoas surdas e ouvintes.
 
 ## 💻 Conhecimentos
 
-### Front-End
+### 🌐 Front-End
 - JavaScript
 - TypeScript
 - React
@@ -47,20 +50,14 @@ Aplicação Web Progressiva (PWA) de transcrição de voz em texto em tempo real
 - Jira
 
 ### 🤖 Inteligência Artificial
-- ChatGPT / Codex
+- ChatGPT
 - Google Gemini
 - Claude — Opus, Sonnet e Haiku
 - LLMs
 - Integração de IA em aplicações
 - Engenharia de Software com IA
 
-### 🔌 Desenvolvimento
-- APIs
-- Integração de serviços
-- Desenvolvimento de interfaces interativas)
-
 ### 🔧 Sistemas Embarcados & Eletrônica
-
 - Linguagem C
 - ESP32
 - Arduino
