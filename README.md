@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Marcos 👋
 
-<!--
-**MarkusEagle39/MarkusEagle39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Front-End Developer
 
-Here are some ideas to get you started:
+Desenvolvedor de Software com experiência em desenvolvimento
+Front-End, Engenharia de Software, interfaces digitais,
+acessibilidade e tecnologias inclusivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Conhecimentos
+
+- JavaScript / TypeScript
+- React
+- Angular
+- HTML5 / CSS3
+- Tailwind CSS
+- APIs
+- Git / GitHub
+- Azure
+
+### ♿ Acessibilidade e Inclusão
+
+Interesse e experiência no desenvolvimento de interfaces,
+soluções digitais acessíveis e tecnologias voltadas à
+acessibilidade e inclusão de pessoas com deficiência.
+
+### 🚀 Atualmente
+
+Ampliando meus conhecimentos em:
+
+- Full Stack Development
+- Inteligência Artificial
+- LLMs
+- Engenharia de Software
