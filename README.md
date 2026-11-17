@@ -18,6 +18,11 @@ Scanner de QR Code que funciona diretamente no navegador, sem necessidade de ins
 
 Jogo de memória inspirado no Simon/Genius, desenvolvido para pessoas com deficiência visual. Utiliza sons e vibrações como principais formas de feedback, com cores como recurso visual complementar para pessoas com baixa visão.
 
+### 🎵 RHYTHM HARMONY — Jogo de ritmo (teste)
+🔗 [Demo](https://markuseagle39.github.io/RHYTHM-HARMONY/) | [Código-fonte](https://github.com/MarkusEagle39/RHYTHM-HARMONY)
+
+Protótipo de jogo de ritmo para navegador, com quatro colunas de notas, três níveis de dificuldade e controles por teclado ou toque.
+
 ### 🎙️ Transcrição Instantânea
 🔗 [Demo](http://markuseagle39.github.io/transcricao/)
 
