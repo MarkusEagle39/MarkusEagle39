@@ -73,7 +73,7 @@ PWA de **voz para texto em tempo real**, criada para facilitar a comunicação e
 ## 💻 Conhecimentos
 
 - **🌐 Front-End:** JavaScript, TypeScript, React, Angular, HTML, CSS e Tailwind CSS.
-- **🐍 Back-End:** Python e fundamentos de desenvolvimento Back-End.
+- **🐍 Back End:** SQL e Python.
 - **☁️ Cloud e ferramentas:** Azure, Azure DevOps, Jenkins, Git/GitHub e Jira.
 - **🤖 Inteligência Artificial:** ChatGPT, Gemini e Claude no desenvolvimento de software e integração de IA em aplicações.
 - **🔧 Sistemas embarcados:** C, ESP32, Arduino e Raspberry Pi, com sensores e atuadores.
