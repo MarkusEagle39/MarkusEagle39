@@ -30,48 +30,11 @@ Aplicação Web Progressiva (PWA) de transcrição de voz em texto em tempo real
 
 ## 💻 Conhecimentos
 
-### 🌐 Front-End
-- JavaScript
-- TypeScript
-- React
-- Angular
-- HTML5
-- CSS3
-- Tailwind CSS
-- Chakra UI
-- shadcn/ui
-- Storybook
-- TanStack Query
-- React Hook Form
-- Zod
-- Recharts
-- i18n
-
-### ☁️ Cloud, DevOps & Ferramentas
-- Azure
-- Azure DevOps
-- Jenkins
-- Git / GitHub
-- Jira
-
-### 🤖 Inteligência Artificial
-- ChatGPT
-- Google Gemini
-- Claude — Opus, Sonnet e Haiku
-- LLMs
-- Integração de IA em aplicações
-- Engenharia de Software com IA
-
-### 🔧 Sistemas Embarcados & Eletrônica
-- Linguagem C
-- ESP32
-- Arduino
-- Raspberry Pi
-- Microcontroladores
-- Sistemas embarcados
-- GPIO
-- Sensores e atuadores
-- Comunicação entre dispositivos
+- **🌐 Front-End:** JavaScript, TypeScript, React, Angular, HTML, CSS e Tailwind CSS.
+- **🐍 Back-End:** Python e fundamentos de desenvolvimento Back-End.
+- **☁️ Cloud e ferramentas:** Azure, Azure DevOps, Jenkins, Git/GitHub e Jira.
+- **🤖 Inteligência Artificial:** uso de ChatGPT, Gemini e Claude no desenvolvimento de software e integração de IA em aplicações.
+- **🔧 Sistemas embarcados:** C, ESP32, Arduino e Raspberry Pi, com sensores e atuadores.
 
 ## ♿ Acessibilidade e Inclusão
 
