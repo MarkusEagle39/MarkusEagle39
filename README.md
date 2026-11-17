@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/marcos-banner.svg" width="100%" alt="Marcos Arruda — Software Engineer e Front-End Developer. Tecnologia que aproxima pessoas." />
+  <img src="assets/marcos-banner.svg" width="100%" alt="Marcos Arruda — Software Engineer e Full Stack Developer. Tecnologia que aproxima pessoas." />
 </p>
 
 <p align="center">
