@@ -68,6 +68,19 @@ PWA de **voz para texto em tempo real**, criada para facilitar a comunicação e
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📻 Rádio em Texto — Campinas
+
+Piloto de acessibilidade para acompanhar emissoras de rádio com **legendas automáticas em português**, processadas no navegador. Inclui modo de leitura, ajuste de fonte, alto contraste e exportação TXT. O reconhecimento é experimental e pode apresentar erros.
+
+**Acessibilidade · Inteligência Artificial · Transcrição**
+
+<a href="https://markuseagle39.github.io/radio-em-texto/">↗ Demo</a> · <a href="https://github.com/MarkusEagle39/radio-em-texto">Código-fonte</a>
+
+</td>
+</tr>
 </table>
 
 ## 💻 Conhecimentos
