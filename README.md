@@ -1,3 +1,5 @@
+<h1 align="center">Marcos Arruda — MarkusEagle39</h1>
+
 <p align="center">
   <img src="assets/marcos-banner.svg" width="100%" alt="Marcos Arruda — Software Engineer e Full Stack Developer. Tecnologia que aproxima pessoas." />
 </p>
@@ -11,7 +13,7 @@
 
 ## 👋 Sobre mim
 
-Sou **Marcos**, desenvolvedor de software com experiência em **Front-End**, interfaces digitais e Engenharia de Software. Gosto de transformar ideias em aplicações úteis, com atenção à **acessibilidade e à inclusão**.
+Sou **Marcos Arruda (MarkusEagle39)**, desenvolvedor de software com experiência em **Front-End**, interfaces digitais e Engenharia de Software. Gosto de transformar ideias em aplicações úteis, com atenção à **acessibilidade e à inclusão**.
 
 Também exploro Inteligência Artificial no desenvolvimento e amplio meus conhecimentos em **Back-End com Python**. Meus projetos passam por ferramentas para o dia a dia, comunicação e jogos para navegador.
 
